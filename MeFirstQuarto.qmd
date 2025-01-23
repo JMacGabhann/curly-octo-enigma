@@ -6,7 +6,6 @@ editor: visual
 
 ## Quarto
 
-
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
 ## Running Code
@@ -29,10 +28,15 @@ ggplot(mydata, aes(x=x, y=y))+
   theme_bw()
 ```
 
-
 ```{r}
 #| echo: false
 2 * 2
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
+
+![](images/Kakapo6.jpg)
+
+![](https://c.tenor.com/YFH8r7l0IX0AAAAd/tenor.gif)
+
+# He found out birds aren't real :(
