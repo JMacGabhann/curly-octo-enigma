@@ -46,3 +46,9 @@ The `echo: false` option disables the printing of code (only output is displayed
 ![](images/makesweet-589tq3.gif)
 
 # HE BLUE! WOOOOOOOOOOO
+
+COdiNg
+
+![](images/coding_cat.gif)
+
+![](images/clueless_dog.gif)
